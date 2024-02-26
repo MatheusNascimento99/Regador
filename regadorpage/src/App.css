@@ -1,0 +1,30 @@
+body{
+  background-color:#25214A ;
+  font-weight: 500;
+  color: #4E69C8;
+}
+
+.App_full{
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  justify-content: center;
+  border: 2px solid pink;
+
+}
+
+.today{
+  border: 2px solid greenyellow;
+  width: fit-content;
+}
+
+.today h1,p{
+    font-size: 2rem;
+}
+
+
+.tomorrow{
+  border: 2px solid blue;
+}
+
